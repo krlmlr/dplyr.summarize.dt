@@ -7,4 +7,4 @@ Depends: R (>= 3.2.0)
 License: GPL-3
 LazyData: true
 Encoding: UTF-8
-GitHub: https://github.com/krlmlr/
+GitHub: https://github.com/krlmlr/dplyr.summarize.dt
